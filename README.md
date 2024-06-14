@@ -61,7 +61,3 @@ This project is ideal for:
 
 - Individuals interested in developing applications for extracting information from business cards and similar documents.
 - Data scientists, analysts, and Python developers looking to advance their skills in Natural Language Processing, OCR, and Computer Vision.
-
----
-
-Feel free to customize this `README.md` further with specific installation instructions, usage examples, or additional project details based on your GitHub repository's needs.
